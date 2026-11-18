@@ -1,0 +1,18 @@
+{
+  "@context": "https://agenticresourcediscovery.org/context/v1",
+  "entries": [
+    {
+      "identifier": "urn:air:geografi.org:feed:materi-geografi",
+      "displayName": "Geografi.org - Katalog Materi & Perangkat Ajar Geografi SMA",
+      "type": "application/json",
+      "description": "Feed JSON resmi portal materi pelajaran Geografi SMA (Kelas X sampai XII) serta perangkat ajar dan administrasi guru di geografi.org.",
+      "url": "https://www.geografi.org/feeds/posts/summary?alt=json",
+      "representativeQueries": [
+        "Cari materi Geografi SMA kelas X, XI, dan XII",
+        "Materi Lithosfer, Atmosfer, Hidrosfer, Biosfer, dan Antroposfer",
+        "Materi SIG, pemetaan, dan penginderaan jauh (Inderaja)",
+        "Perangkat ajar, modul ajar, dan asesmen Geografi untuk guru"
+      ]
+    }
+  ]
+}
